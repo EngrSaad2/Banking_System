@@ -53,7 +53,7 @@ You did it !!
 Open your xamp/ wamp server. Run the project and enjoy ..
 
 
-#### N.B: If you have any query or face any problem feel free to knock me.
+#### N.B: If you have any query or face any problem feel free to knock us.
 Md. Abdullah  
 abdullah001rti@gmail.com  
 Linkedin: https://www.linkedin.com/in/abd1rti  
