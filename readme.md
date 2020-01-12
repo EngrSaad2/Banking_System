@@ -60,11 +60,11 @@ Linkedin: https://www.linkedin.com/in/abd1rti
 fb: https://www.facebook.com/abd1rti  
 skype: abdullah_rti
 
-<b>SAAD</b>
-saad@triangeltech.com
-LinkedIn: https://www.linkedin.com/in/raselhasandurjoy
-Facebook: https://www.facebook.com/raselhasandurjoy
-Phone: +8801904654712
+<b>SAAD</b> <br>
+saad@triangeltech.com<br>
+LinkedIn: https://www.linkedin.com/in/raselhasandurjoy<br>
+Facebook: https://www.facebook.com/raselhasandurjoy<br>
+Phone: +8801904654712<br>
 
 ## Contributor
 ~Md. Abdullah  
