@@ -60,6 +60,12 @@ Linkedin: https://www.linkedin.com/in/abd1rti
 fb: https://www.facebook.com/abd1rti  
 skype: abdullah_rti
 
+<b>SAAD</b>
+saad@triangeltech.com
+LinkedIn: https://www.linkedin.com/in/raselhasandurjoy
+Facebook: https://www.facebook.com/raselhasandurjoy
+Phone: +8801904654712
+
 ## Contributor
 ~Md. Abdullah  
 ~Saad (Rassel Hossain)  
