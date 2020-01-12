@@ -6,7 +6,7 @@
 
 Banking system is a 3rd year student class project , which is developed Java And Swing.
 
-##Features
+## Features
 1. Register the new user
 2. Account Opening
 3. Transferring money from user account to others.
@@ -14,7 +14,7 @@ Banking system is a 3rd year student class project , which is developed Java And
 5. View the Transaction in between dates.
 6. Request for cheque book
 
-##Requirements
+## Requirements
 
     Java Development Kit (JDK)
     NetBeans IDE
@@ -60,11 +60,11 @@ Linkedin: https://www.linkedin.com/in/abd1rti
 fb: https://www.facebook.com/abd1rti  
 skype: abdullah_rti
 
-##Contributor
-~Md. Abdullah
-~Saad (Rassel Hossain)
-~Alif Mariam Bijori
-~Shaila Nasrin
+## Contributor
+~Md. Abdullah  
+~Saad (Rassel Hossain)  
+~Alif Mariam Bijori  
+~Shaila Nasrin  
 
 ## License
 
