@@ -12,7 +12,7 @@ Banking system is a 3rd year student class project , which is developed Java And
 3. Transferring money from user account to others.
 4. Balance Enquiry.
 5. View the Transaction in between dates.
-6. Request for cheque book
+6. Request for cheque book.
 
 ## Requirements
 
