@@ -24,7 +24,7 @@ Banking system is a 3rd year student class project , which is developed Java And
 To use this project have to setup the config:
 
    
-    create a database in MySQL server...
+    create a database in MySQL server..
     
 
 Next, you should replace the config file
