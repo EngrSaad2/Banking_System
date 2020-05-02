@@ -50,7 +50,7 @@ Login Credentials
     password: pass
 
 You did it !!  
-Open your xamp/ wamp server. Run the project and enjoy .
+Open your xamp/ wamp server. Run the project and enjoy ..
 
 
 #### N.B: If you have any query or face any problem feel free to knock us.
