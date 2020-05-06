@@ -64,7 +64,7 @@ skype: abdullah_rti
 saad@triangeltech.com<br>
 LinkedIn: https://www.linkedin.com/in/raselhasandurjoy<br>
 Facebook: https://www.facebook.com/raselhasandurjoy<br>
-Phone: +8801904654712<br>
+WhatsApp: +8801904654712<br>
 
 ## Contributor
 ~Md. Abdullah  
